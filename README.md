@@ -5,10 +5,12 @@
 Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engineer
 </p>
 
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"/>
+
 ## ⚡ About Me
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning tecnolagis like React and Node.js
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 

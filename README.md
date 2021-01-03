@@ -1,18 +1,17 @@
 <h1 align="left"> <img src="https://github.com/AnnaFilipov93/AnnaFilipov93/blob/main/Img/Hi.gif" height="25"/> Hi, I'm Anna Filipov</h1> 
 
-## #OpenToWork
-<p align="left"> 
-Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engineer
-</p>
-
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height="250"/>
-
 ## ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning tecnolagis like React and Node.js
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
+- 🎓 I'm a resent Computer Science graduate.
+- 🔭 I’m currently working on books excang app developed with React and Node.js.
+- 🌱 I’m currently learning tecnolagis like React and Node.js.
+- 😄 My hobbies are to gardening and take dancing class.
+
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height="200"/>
+
+## #OpenToWork
+
+Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engineer
 
 
 ## 💻 Tech Stack
@@ -31,7 +30,7 @@ Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engin
 
   
  ## 📫 How to reach me
- <p align="left">
+ 
   <a href="https://www.linkedin.com/in/filipovanna/"><img src="https://img.shields.io/badge/-AnnaFilipov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
   <a href="mailto:filipovanna93@gmail.com"><img src="https://img.shields.io/badge/-filipovanna93@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- </p>
+ 

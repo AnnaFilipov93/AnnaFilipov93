@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Anna
+### Hi [hi](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png), I'm Anna Filipov
 
 <!--
 **AnnaFilipov93/AnnaFilipov93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

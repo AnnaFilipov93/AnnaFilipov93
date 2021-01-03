@@ -1,12 +1,13 @@
 <h1 align="left"> <img src="https://github.com/AnnaFilipov93/AnnaFilipov93/blob/main/Img/Hi.gif" height="25"/> Hi, I'm Anna Filipov</h1> 
 
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height="200"/>
+
 ## ⚡ About Me
 
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height="200"/>
-- 🎓 I'm a resent Computer Science graduate.\
-- 🔭 I’m currently working on books exchange app developed with React and Node.js.\
-- 🌱 I’m currently learning tecnolagis like React and Node.js.\
-- 😄 My hobbies are to gardening and take dancing class.\
+- 🎓 I'm a resent Computer Science graduate.
+- 🔭 I’m currently working on books exchange app developed with React and Node.js.
+- 🌱 I’m currently learning tecnolagis like React and Node.js.
+- 😄 My hobbies are to gardening and take dancing class.
 
 ## #OpenToWork
 

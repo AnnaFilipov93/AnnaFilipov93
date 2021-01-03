@@ -2,12 +2,11 @@
 
 ## ⚡ About Me
 
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height="200"/>
 - 🎓 I'm a resent Computer Science graduate.
 - 🔭 I’m currently working on books exchange app developed with React and Node.js.
 - 🌱 I’m currently learning tecnolagis like React and Node.js.
 - 😄 My hobbies are to gardening and take dancing class.
-
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height="200"/>
 
 ## #OpenToWork
 

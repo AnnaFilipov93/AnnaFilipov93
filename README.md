@@ -5,7 +5,7 @@
 Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engineer
 </p>
 
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"/>
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height="250"/>
 
 ## ⚡ About Me
 

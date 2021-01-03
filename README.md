@@ -1,11 +1,11 @@
-<h1 align="center"> <img src="https://github.com/AnnaFilipov93/AnnaFilipov93/blob/main/Img/Hi.gif" height="25"/> Hi, I'm Anna Filipov</h1> 
+<h1 align="left"> <img src="https://github.com/AnnaFilipov93/AnnaFilipov93/blob/main/Img/Hi.gif" height="25"/> Hi, I'm Anna Filipov</h1> 
 
-**#OpenToWork**
+## #OpenToWork
 <p align="left"> 
 Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engineer
 </p>
 
-**⚡ About Me**
+## ⚡ About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,24 +13,22 @@ Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engin
 - 😄 Pronouns: ...
 
 
-**💻 Tech Stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=CSS&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/sql-4479A1.svg?&style=for-the-badge&logo=SQL&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=gitHub&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/node.js-3776AB.svg?&style=for-the-badge&logo=node&logoColor=white" height="25"/>
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javaScript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-
-
-</p>  
   
- **📫 How to reach me**
+ ## 📫 &nbsp;How to reach me
  <p align="center">
   <a href="https://www.linkedin.com/in/filipovanna/"><img src="https://img.shields.io/badge/-AnnaFilipov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
   <a href="mailto:filipovanna93@gmail.com"><img src="https://img.shields.io/badge/-filipovanna93@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>

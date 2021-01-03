@@ -3,7 +3,7 @@
 ## ⚡ About Me
 
 - 🎓 I'm a resent Computer Science graduate.
-- 🔭 I’m currently working on books excang app developed with React and Node.js.
+- 🔭 I’m currently working on books exchange app developed with React and Node.js.
 - 🌱 I’m currently learning tecnolagis like React and Node.js.
 - 😄 My hobbies are to gardening and take dancing class.
 

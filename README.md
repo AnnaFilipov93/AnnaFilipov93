@@ -1,9 +1,7 @@
-### Hi ![hi](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png), I'm Anna Filipov
+<h1 align="center">Hi <<img src="https://github.com/AnnaFilipov93/AnnaFilipov93/blob/main/Img/Hi.gif" height="25"/>
+, I'm Anna Filipov</h1> 
 
-<!--
-**AnnaFilipov93/AnnaFilipov93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Tech Stack
+

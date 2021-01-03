@@ -10,7 +10,9 @@
 
 **Tech Stack**
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&yellow=white" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=Javascript&yellow=white" height="25"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+
 <img src="https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white" height="25"/>
   

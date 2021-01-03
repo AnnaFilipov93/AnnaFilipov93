@@ -1,5 +1,10 @@
 <h1 align="center"> <img src="https://github.com/AnnaFilipov93/AnnaFilipov93/blob/main/Img/Hi.gif" height="25"/> Hi, I'm Anna Filipov</h1> 
 
+**#OpenToWork**
+<p align="left"> 
+Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engineer
+</p>
+
 **⚡ About Me**
 
 - 🔭 I’m currently working on ...
@@ -8,7 +13,7 @@
 - 😄 Pronouns: ...
 
 
-**Tech Stack**
+**💻 Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/> 
@@ -25,10 +30,8 @@
 
 </p>  
   
-**#OpenToWork**
-
-<p align="left"> 
-Software Engineer · Back End Developer · Frontend Engineer · Full Stack Engineer
-</p>
-
-📫 **How to reach me**
+ **📫 How to reach me**
+ <p align="center">
+  <a href="https://www.linkedin.com/in/filipovanna/"><img src="https://img.shields.io/badge/-AnnaFilipov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
+  <a href="mailto:filipovanna93@gmail.com"><img src="https://img.shields.io/badge/-filipovanna93@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+ </p>

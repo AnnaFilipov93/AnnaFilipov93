@@ -1,5 +1,5 @@
-<h1 align="center">Hi <<img src="https://github.com/AnnaFilipov93/AnnaFilipov93/blob/main/Img/Hi.gif" height="25"/>
-, I'm Anna Filipov</h1> 
+<h1 align="center">Hi <img src="https://github.com/AnnaFilipov93/AnnaFilipov93/blob/main/Img/Hi.gif" height="25"/>
+, I'm Anna Filipov <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="25"/></h1> 
 
 About Me
 

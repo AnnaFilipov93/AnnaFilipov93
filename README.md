@@ -10,12 +10,14 @@
 
 **Tech Stack**
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=Javascript&yellow=white" height="25"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> |
+  <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/> |
+  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/> |
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 
-<img src="https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white" height="25"/>
-  
+
+
 </p>  
   
 **#OpenToWork**
